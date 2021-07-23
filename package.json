@@ -11,7 +11,7 @@
     "@testing-library/react": "^11.2.1",
     "@testing-library/user-event": "^7.1.2",
     "env-cmd": "^10.1.0",
-    "firebase": "^8.1.1",
+    "firebase": "^8.8.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
